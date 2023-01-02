@@ -3,7 +3,7 @@
 <!--
 **oneJS-dev/oneJS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://user-images.githubusercontent.com/98762998/210244110-4dc752ad-a41f-4f2f-ae36-b02ceb224e7e.png">
+<img src="./icon.png">
 ![icon](https://user-images.githubusercontent.com/98762998/210244464-d307b54f-a97f-4824-84ff-31886131900c.png)
 
 
