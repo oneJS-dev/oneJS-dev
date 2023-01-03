@@ -105,7 +105,8 @@ You do not require extensive JavaScript knowledge to become an expert in oneJS; 
 oneJS is MIT licensed.
 
 <div align="center">
-  <H1><H1>
-  
-  <img alt="oneJS" src="https://user-images.githubusercontent.com/98762998/210245537-180314c5-51b1-4b01-b3b8-d02d50b77d73.svg" width="60px">
+  <h1></h1>
+  <h1>
+    <img alt="oneJS" src="https://user-images.githubusercontent.com/98762998/210245537-180314c5-51b1-4b01-b3b8-d02d50b77d73.svg" width="60px">
+  </h1>
 </div>
