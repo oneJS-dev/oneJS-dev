@@ -30,14 +30,12 @@
   </a>
 </p>
 
-
-
 A **functional**, **JavaScript only**, **cross platform** framework.
 <br><br>
 oneJS is a next generation, open source JavaScript framework for building modern apps for web and mobile from a single codebase. oneJS is not owned by any Tech Giant; it is an independent project developed by contributors from all around the world. oneJS is based on three principles:
 
-- **Functional:** Predictable, code efficient and easily testable. Pure functions are the building blocks of oneJS. Fall in love with the the functional programming paradigm ❤️.
-- **JS Only. Really:** You can write your entire app in pure Vanilla JS or Typescript. That's write, not a single line of HTML, CSS or JSX needed. Can you believe it?
+- **Functional:** Predictable, code efficient and easily testable. Pure functions are the building blocks of oneJS. Fall in love with the functional programming paradigm ❤️.
+- **JS Only. Really:** You can write your entire app in pure Vanilla JS or Typescript. That's right, not a single line of HTML, CSS or JSX needed. Can you believe it?
 - **Cross Platform:** Write the same code for web and native apps. Simplicity is our true cross platform weapon; reduce your effort and multiply your reach! Powered by [React][react] and [React Native's][rn] new architecture.
 
 [react]: https://reactjs.org/
@@ -105,8 +103,6 @@ You do not require extensive JavaScript knowledge to become an expert in oneJS; 
 ## ⚖️License
 
 oneJS is MIT licensed.
-
-
 
 <div align="center">
   <H1><H1>
